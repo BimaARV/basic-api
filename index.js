@@ -17,7 +17,7 @@ const port = process.env.PORT;
 app.use(limiter);
 
 app.get("/", (req, res) => {
-  res.send(`Hello Selamat datang di ${api} akuu!`);
+  res.send(`Hello Selamat datang di ${api} akuu! 👋`);
 });
 
 app.get("/metadata", metadata);
