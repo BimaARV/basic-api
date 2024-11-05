@@ -80,3 +80,14 @@
 2024-11-05T11:12:27.246Z [ERROR] Too many requst from ::ffff:10.88.0.4 on 2024-11-05T11:12:27.246Z
 2024-11-05T11:12:28.485Z [WARN] Warning: User with IP ::ffff:10.88.0.4 has accessed /status Date 2024-11-05T11:12:28.484Z
 2024-11-05T11:12:46.654Z [WARN] Warning: User with IP ::ffff:127.0.0.1 has accessed /status Date 2024-11-05T11:12:46.654Z
+2024-11-05T11:14:52.240Z [WARN] Warning: User with IP ::ffff:127.0.0.1 has accessed /status Date 2024-11-05T11:14:52.239Z
+2024-11-05T11:14:52.398Z [WARN] Warning: User with IP ::ffff:127.0.0.1 has made 3 requests on 2024-11-05T11:14:52.397Z
+2024-11-05T11:14:52.398Z [WARN] Warning: User with IP ::ffff:127.0.0.1 has accessed /status Date 2024-11-05T11:14:52.398Z
+2024-11-05T11:14:52.554Z [WARN] Warning: User with IP ::ffff:127.0.0.1 has accessed /status Date 2024-11-05T11:14:52.554Z
+2024-11-05T11:14:52.712Z [WARN] Warning: User with IP ::ffff:127.0.0.1 has accessed /status Date 2024-11-05T11:14:52.711Z
+2024-11-05T11:14:52.879Z [WARN] Warning: User with IP ::ffff:127.0.0.1 has accessed /status Date 2024-11-05T11:14:52.879Z
+2024-11-05T11:14:53.061Z [ERROR] Too many requst from ::ffff:127.0.0.1 on 2024-11-05T11:14:53.061Z
+2024-11-05T11:14:53.222Z [ERROR] Too many requst from ::ffff:127.0.0.1 on 2024-11-05T11:14:53.222Z
+2024-11-05T11:14:53.413Z [ERROR] Too many requst from ::ffff:127.0.0.1 on 2024-11-05T11:14:53.413Z
+2024-11-05T11:14:53.580Z [ERROR] Too many requst from ::ffff:127.0.0.1 on 2024-11-05T11:14:53.580Z
+2024-11-05T11:14:53.752Z [ERROR] Too many requst from ::ffff:127.0.0.1 on 2024-11-05T11:14:53.752Z
