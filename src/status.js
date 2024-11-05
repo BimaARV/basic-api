@@ -22,11 +22,5 @@ const statusMiddleware = (req, res, next) => {
   res.json(status);
 };
 
-const badRequestHandler = (req, res) => {
-  res.status(400).json({
-    status: 400,
-    message: "Bad Request",
-  });
-};
 
-export { statusMiddleware, badRequestHandler };
+export default statusMiddleware;

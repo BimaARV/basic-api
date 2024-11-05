@@ -1,0 +1,25 @@
+2024-11-05T10:56:37.685Z [INFO] App started on port 3000 with name UCIHA
+2024-11-05T10:56:37.689Z [INFO] Server running on port 3000
+2024-11-05T10:56:53.895Z [INFO] Request received on route /metadata
+2024-11-05T11:03:58.136Z [INFO] App started on port 3000 with name UCIHA
+2024-11-05T11:03:58.139Z [INFO] Server running on port 3000
+2024-11-05T11:04:15.643Z [INFO] App started on port 3000 with name UCIHA
+2024-11-05T11:04:15.647Z [INFO] Server running on port 3000
+2024-11-05T11:04:27.948Z [INFO] App started on port 3000 with name UCIHA
+2024-11-05T11:04:27.952Z [INFO] Server running on port 3000
+2024-11-05T11:05:11.775Z [INFO] App started on port 3000 with name UCIHA
+2024-11-05T11:05:11.779Z [INFO] Server running on port 3000
+2024-11-05T11:05:22.332Z [INFO] App started on port 3000 with name UCIHA
+2024-11-05T11:05:22.335Z [INFO] Server running on port 3000
+2024-11-05T11:05:31.524Z [INFO] Request received on route /metadata
+2024-11-05T11:05:33.043Z [INFO] Request received on route /metadata
+2024-11-05T11:05:33.746Z [WARN] Warning: User with IP 10.88.0.4:3000 has made 3 requests on 2024-11-05T11:05:33.745Z
+2024-11-05T11:05:33.747Z [INFO] Request received on route /metadata
+2024-11-05T11:05:39.005Z [INFO] Request received on route /metadata
+2024-11-05T11:05:47.934Z [INFO] Request received on route /metadata
+2024-11-05T11:05:48.090Z [INFO] Request received on route /metadata
+2024-11-05T11:05:48.251Z [INFO] Request received on route /metadata
+2024-11-05T11:05:48.450Z [INFO] Request received on route /metadata
+2024-11-05T11:05:48.610Z [INFO] Request received on route /metadata
+2024-11-05T11:05:48.764Z [ERROR] Too many requst from 10.88.0.4:3000 on 2024-11-05T11:05:48.764Z
+2024-11-05T11:06:04.245Z [INFO] Request received on route /metadata
