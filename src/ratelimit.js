@@ -7,7 +7,7 @@ const limiter = rateLimit({
   status: 429,
   message: "Too many request, try again after 15 seconds",
   handler: (req, res) => {
-    error(`Too many requst from ${req.headers.host} on ${new Date().toISOString()}`);
+    error(`Too many requst from ${req.ip} on ${new Date().toISOString()}`);
     res
       .status(429)
       .json({ error: "Too many request, try again after 15 seconds" });
@@ -24,7 +24,7 @@ const trackRequest = (req, res, next) => {
 
   if (req.app.locals[ip] === 3) {
     warn(
-      `Warning: User with IP ${req.headers.host} has made 3 requests on ${new Date().toISOString()}`
+      `Warning: User with IP ${ip} has made 3 requests on ${new Date().toISOString()}`
     );
   }
 

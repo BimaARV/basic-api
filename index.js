@@ -35,7 +35,7 @@ app.get("/metadata", (req, res) => {
 // bad request handler & middleware
 app.get("/status", (req, res) => {
   warn(
-    `Warning: User with IP ${req.headers.host} has accessed /status Date ${new Date().toISOString()}`
+    `Warning: User with IP ${req.ip} has accessed /status Date ${new Date().toISOString()}`
   );
   statusMiddleware(req, res);
 });
